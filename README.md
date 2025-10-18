@@ -55,3 +55,21 @@ Lead AI Software Engineer and Azure Cloud Architect and with 9+ years of experie
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avi-arora&show_icons=true&theme=default" alt="Avishek Arora GitHub Stats" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-arora&layout=compact&theme=default" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=avi-arora&theme=default" alt="GitHub Streak" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avi-arora&theme=github" alt="Total Contributions" />
+   <img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avi-arora&theme=github" alt="https://github.com/avi-arora" />
+</div>
+
+[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
+
+
+
+
+
