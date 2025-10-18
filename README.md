@@ -1,3 +1,13 @@
+<div align="left">
+  <marquee behavior="alternate" scrollamount="3">
+    <img src="https://komarev.com/ghpvc/?username=avi-arora&color=blue" alt="Profile Views" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/arora?style=social" alt="GitHub Followers" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/arora?style=social" alt="GitHub Stars" />
+  </marquee>
+</div>
+
 # Avishek Arora 👋
 
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1L-k_JfkPP_VQOCL_rEHzdFtmWER9JMH1/view?usp=sharing)
