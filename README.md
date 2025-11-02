@@ -67,7 +67,7 @@ Lead AI Software Engineer and Azure Cloud Architect and with 9+ years of experie
    <img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avi-arora&theme=github" alt="https://github.com/avi-arora" />
 </div>
 
-[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
+[![Contribution Heatmap](https://ghchart.rshah.org/avi-arora?bg=ffffff)](https://github.com/avi-arora)  
 
 
 
