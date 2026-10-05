@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avishek.arora@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/avi-arora)
 
-Lead AI Software Engineer and Azure Cloud Architect and with 9+ years of experience in designing, developing and delivering flaw-less software solutions with core focus on scalability and cloud transformation. Good hands on experience with Large Language models, Computer Vision, Data Structures, Algorithms, Web & Cloud Architecture.
+Lead AI Software Engineer and Cloud Architect and with 9+ years of experience in designing, developing and delivering flaw-less software solutions with core focus on scalability and cloud transformation. Good hands on experience with Large Language models, Computer Vision, Data Structures, Algorithms, Web & Cloud Architecture.
 
 
 ## 🛠️ Tech Stack
